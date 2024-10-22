@@ -9,6 +9,7 @@ androidxComposeMaterial3 = "1.2.1"
 androidxComposeMaterialMaterial = "1.6.8"
 androidxComposeUi = "1.7.0-beta06"
 coreTesting = "2.2.0"
+jsoup = "1.16.1"
 ossLicensesPlugin = "0.10.6"
 androidxNavigation = "2.7.7"
 androidxHiltNavigationCompose = "1.2.0"
@@ -104,6 +105,7 @@ androidx-test-junit4 = { group = "androidx.compose.ui", name = "ui-test-junit4",
 androidx-navigation-runtime-ktx = { group = "androidx.navigation", name = "navigation-runtime-ktx", version.ref = "androidxNavigation" }
 androidx-work-runtime-ktx = { group = "androidx.work", name = "work-runtime-ktx", version.ref = "androidxWork" }
 androidx-annotation = { group = "androidx.annotation", name = "annotation", version.ref = "annotation" }
+jsoup = { module = "org.jsoup:jsoup", version.ref = "jsoup" }
 ui-graphics = { group = "androidx.compose.ui", name = "ui-graphics" }
 androidx-browser = { group = "androidx.browser", name = "browser", version.ref = "androidXBrowser" }
 media-exoplayer = { group = "androidx.media3", name = "media3-exoplayer", version.ref = "media3" }
